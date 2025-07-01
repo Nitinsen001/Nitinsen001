@@ -1,60 +1,68 @@
 👋 Hi, I’m Nitin Sen
+🎓 B.Tech CSE (AI & ML), 2nd Year
+🏫 Student at Jawaharlal Institute of Technology (JIT), Borawan
+🎓 Affiliated to RGPV Bhopal
+
 🚀 About Me
-B.Tech CSE (AI & ML), 2nd Year
+I am a passionate learner focused on Artificial Intelligence, Machine Learning, and Python Development. Currently exploring the full power of Web Development using Django, and  Data Structures & Algorithms on GeeksforGeeks.
 
-Student at Jawaharlal Institute of Technology (JIT), Borawan, affiliated to RGPV Bhopal
+I am also building two exciting real-world projects:
 
-Focused on AI, Machine Learning, and Python Development
+🧠 KBC-style Python Quiz Game with voice feedback using pyttsx3
 
-Learning Web Development using Django
-
-Exploring Data Structures and Algorithms on GeeksforGeeks
-
-Building a KBC-style quiz game with voice feedback using Python and pyttsx3
-
-Interested in smart systems like Jarvis AI Assistant with GUI using SFML
+🤖 Jarvis AI Assistant with GUI (using SFML)
 
 👀 Areas of Interest
-Python Programming
+🔹 Python Programming
 
-Machine Learning (Andrew Ng - Hindi course based)
+🔹 Machine Learning (Andrew Ng – Hindi version based)
 
-Web Development with Django
+🔹 Web Development (Django)
 
-Voice-enabled Applications (Jarvis-style)
+🔹 Voice-enabled Applications (Jarvis-style systems)
 
-DSA (via GeeksforGeeks)
+🔹 Data Structures & Algorithms (via GeeksforGeeks)
 
 🌱 Currently Learning
-Andrew Ng’s Machine Learning (Hindi parallel version)
+📘 Andrew Ng’s ML Course (parallel Hindi version)
 
-Django Web Framework
+🌐 Django Web Framework
 
-SQLite in Python
+🗃️ SQLite in Python
 
-SFML GUI for Python (for Jarvis/KBC project)
-
-Ongoing practice of C & DSA for better logic building
+💡 Core C Programming + DSA practice for logic building
 
 🏅 Certifications
-Python for Data Science – DataFlair
+🔹 Technical & Programming Skills
+✅ C Programming Certification – LinkedIn Learning
 
-C Programming – Spoken Tutorial, IIT Bombay
+✅ C++ Essentials Training – LinkedIn Learning
 
-C++ Programming – Spoken Tutorial, IIT Bombay
+✅ Advanced C++ Development – LinkedIn Learning
 
-Django Web Development – (Self Learning from YouTube & Docs)
+✅ Introduction to Cybersecurity – SheKunj Foundation
 
-Data Structures & Algorithms – (Learning from GeeksforGeeks)
+✅ Generative AI Program – SheKunj Foundation
+
+🔹 AI, Ethics & Social Intelligence
+✅ AI-powered Collaboration – LinkedIn Learning
+
+✅ Leveraging the Power of Social Intelligence in the Age of AI – LinkedIn Learning
+
+✅ Ethics in the Age of Generative AI – LinkedIn Learning
+
+🔹 Career & Project Development
+✅ Introduction to Career Skills in Software Development – LinkedIn Learning
+
+✅ Project Management Foundation Certification – LinkedIn Learning
+
+✅ Portfolio: That Sets You Apart – Code Canvas Webinar
 
 📫 Connect With Me
-LinkedIn: linkedin.com/in/nitin-sen-972a7130a
 
-GeeksforGeeks: geeksforgeeks.org/user/nitinseqs4m
-
-College: jitechno.com
-
-University: rgpv.ac.in
+🔗 [LinkedIn](https://linkedin.com/in/nitin-sen-972a7130a)  
+🔗 [GFG](https://geeksforgeeks.org/user/nitinseqs4m)  
+🔗 [JIT](https://jitechno.com) | [RGPV](https://rgpv.ac.in)  
 
 ⚡ Fun Fact
-I’m building my own KBC game and Jarvis assistant in Python — with real voice feedback and offline capability.
+I’m building my own KBC game and Jarvis Assistant in Python — with real voice feedback and offline capability, just like a smart AI system.
