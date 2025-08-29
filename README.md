@@ -1,5 +1,5 @@
 👋 Hi, I’m Nitin Sen
-🎓 B.Tech CSE (AI & ML), 2nd Year
+🎓 B.Tech CSE (AI & ML), 3nd Year
 🏫 Student at Jawaharlal Institute of Technology (JIT), Borawan
 🎓 Affiliated to RGPV Bhopal
 
