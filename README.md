@@ -1,4 +1,4 @@
-[![Nitinsen001's Holopin board][![An image of @nitinsen001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitinsen001)](https://holopin.io/@nitinsen001)
+[![An image of @nitinsen001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitinsen001)](https://holopin.io/@nitinsen001)
 ![Profile Views](https://komarev.com/ghpvc/?username=Nitinsen001&color=blueviolet&style=flat-square&label=Profile+Views)
 
 <h1 align="center">Hi 👋, I'm Nitin Sen</h1>
