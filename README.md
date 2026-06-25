@@ -1,5 +1,6 @@
-[![An image of @nitinsen001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitinsen001)](https://holopin.io/@nitinsen001)
+## 🏅 Holopin Badges
 
+[![An image of @nitinsen001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitinsen001)](https://holopin.io/@nitinsen001)
 <h1 align="center">Hi 👋, I'm Nitin Sen</h1>
 <h3 align="center">AI & Machine Learning Engineer | Data Science Enthusiast | Python Developer from India</h3>
 
