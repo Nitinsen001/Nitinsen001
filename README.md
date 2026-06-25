@@ -1,68 +1,51 @@
-👋 Hi, I’m Nitin Sen
-🎓 B.Tech CSE (AI & ML), 3nd Year
-🏫 Student at Jawaharlal Institute of Technology (JIT), Borawan
-🎓 Affiliated to RGPV Bhopal
+# Hi 👋, I'm Nitin Sen
 
-🚀 About Me
-I am a passionate learner focused on Artificial Intelligence, Machine Learning, and Python Development. Currently exploring the full power of Web Development using Django, and  Data Structures & Algorithms on GeeksforGeeks.
+### AI & Machine Learning Engineer | Data Science Enthusiast | Python Developer
 
-I am also building two exciting real-world projects:
+> Building intelligent AI-powered solutions that solve real-world problems.
 
-🧠 KBC-style Python Quiz Game with voice feedback using pyttsx3
+## 🚀 About Me
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 📍 Indore, Madhya Pradesh, India
+- 💼 Python Intern @ Infosys Springboard
+- 🌱 Learning Machine Learning, Data Science & AI Engineering
+- 🔭 Working on AI products and real-world solutions
+- 📫 Email: nitinsen91650@gmail.com
+- 🌐 Portfolio: **Coming Soon**
 
-🤖 Jarvis AI Assistant with GUI (using SFML)
+## 🌐 Connect
+- GitHub: https://github.com/Nitinsen001
+- LinkedIn: https://www.linkedin.com/in/nitin-sen-972a7130a
+- Kaggle: https://www.kaggle.com/nitinsen001
+- CodeChef: https://www.codechef.com/users/nitin_sen_001
 
-👀 Areas of Interest
-🔹 Python Programming
+## 🏆 Featured Project
+### Campus Guide – Smart Faculty Locator & 3D Campus Navigation
+**Problem:** Students waste time searching for faculty, making repeated calls, and struggling to locate rooms.
 
-🔹 Machine Learning (Andrew Ng – Hindi version based)
+**Solution:** A smart system that predicts faculty location from timetable data, suggests alternate locations, and provides an interactive 3D campus map with room labels, faculty profiles, department information, HOD/Principal offices, labs, and floor-wise navigation.
 
-🔹 Web Development (Django)
+**Impact:** Saves time, reduces unnecessary calls, and improves the campus experience.
 
-🔹 Voice-enabled Applications (Jarvis-style systems)
+## 🚀 Other Projects
+- AirAware – Smart Air Quality Prediction System
+- AI-Powered Career Recommender
+- E-Commerce Store (Django)
 
-🔹 Data Structures & Algorithms (via GeeksforGeeks)
+## 💻 Tech Stack
+Python • C • C++ • HTML • CSS • JavaScript • Django • Git • GitHub • Pandas • NumPy • Matplotlib • Scikit-Learn • Streamlit • MySQL • SQLite • PL/SQL
 
-🌱 Currently Learning
-📘 Andrew Ng’s ML Course (parallel Hindi version)
+## 📊 GitHub
+Use these widgets after uploading:
+- GitHub Stats (Nitinsen001)
+- GitHub Streak
+- Top Languages
+- Activity Graph
+- Visitor Counter
+- GitHub Trophies
+- Snake Animation
 
-🌐 Django Web Framework
-
-🗃️ SQLite in Python
-
-💡 Core C Programming + DSA practice for logic building
-
-🏅 Certifications
-🔹 Technical & Programming Skills
-✅ C Programming Certification – LinkedIn Learning
-
-✅ C++ Essentials Training – LinkedIn Learning
-
-✅ Advanced C++ Development – LinkedIn Learning
-
-✅ Introduction to Cybersecurity – SheKunj Foundation
-
-✅ Generative AI Program – SheKunj Foundation
-
-🔹 AI, Ethics & Social Intelligence
-✅ AI-powered Collaboration – LinkedIn Learning
-
-✅ Leveraging the Power of Social Intelligence in the Age of AI – LinkedIn Learning
-
-✅ Ethics in the Age of Generative AI – LinkedIn Learning
-
-🔹 Career & Project Development
-✅ Introduction to Career Skills in Software Development – LinkedIn Learning
-
-✅ Project Management Foundation Certification – LinkedIn Learning
-
-✅ Portfolio: That Sets You Apart – Code Canvas Webinar
-
-📫 Connect With Me
-
-🔗 [LinkedIn](https://linkedin.com/in/nitin-sen-972a7130a)  
-🔗 [GFG](https://geeksforgeeks.org/user/nitinseqs4m)  
-🔗 [JIT](https://jitechno.com) | [RGPV](https://rgpv.ac.in)  
-
-⚡ Fun Fact
-I’m building my own KBC game and Jarvis Assistant in Python — with real voice feedback and offline capability, just like a smart AI system.
+## 🎯 Goals
+- Build production-ready AI applications
+- Learn Deep Learning & MLOps
+- Contribute to Open Source
